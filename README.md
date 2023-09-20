@@ -1,4 +1,4 @@
-# React-Native-Coffee-App-Yt
+# NFT MARKETPLACE
 
 ## Get Started
 
